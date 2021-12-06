@@ -45,4 +45,4 @@ input1.send_keys(email_string)
 input2 = browser.find_element_by_name("password")
 input2.send_keys("+erferfererferfefe@g,ail.com")
 
-# исправил    nj k
+# Изменения 1
